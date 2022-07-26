@@ -1,200 +1,223 @@
 <div align="center">
-  <br>
+  
+<p><img src="./assets/images/banners/jekyll.jpg" alt="jekyll"></p>
+  
+<h3 align="center">
+  <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> theme for elegant writers.
+</h3>
 
-  <a href="https://github.com/jeffreytse/jekyll-theme-yat">
-    <img alt="jekyll-theme-yat →~ jekyll" src="https://user-images.githubusercontent.com/9413601/106478481-346fdf00-64e4-11eb-9385-1ab5329c3234.png" width="600">
-  </a>
 
-  <h1>JEKYLL YAT THEME</h1>
+<a href="https://github.com/vanhiupun/Vanhiupun.github.io/actions/workflows/jekyll.yml" target="_blank">
+    <img src="https://github.com/vanhiupun/Vanhiupun.github.io/actions/workflows/jekyll.yml/badge.svg"  alt="jekyll"/>
+</a>
 
+<!-- <a href="https://circleci.com/gh/vanhiupun/Vanhiupun.github.io/tree/master" target="_blank">
+  <img src="https://circleci.com/gh/vanhiupun/Vanhiupun.github.io/tree/master.svg?style=shield" alt="circleci">
+</a>  -->
+ 
+<a href="https://github.com/vanhiupun/Vanhiupun.github.io/actions/workflows/codeql-analysis.yml" target="_blank">
+  <img src="https://github.com/vanhiupun/Vanhiupun.github.io/actions/workflows/codeql-analysis.yml/badge.svg" alt="analysis">
+</a> 
+  
+<a href="https://github.com/vanhiupun/Vanhiupun.github.io" target="_blank">
+  <img src="https://www.codefactor.io/repository/github/vanhiupun/vanhiupun.github.io/badge" alt="CodeFactor" />
+</a>
+  
+<a href="https://codeclimate.com/github/vanhiupun/Vanhiupun.github.io/maintainability">
+  <img src="https://api.codeclimate.com/v1/badges/708da11ffb90a8f6f13b/maintainability" alt="maintainability" />
+</a>
+
+<a href="https://rubygems.org/gems/jekyll-theme-yat" target="_blank">
+    <img src="https://badge.fury.io/rb/jekyll-theme-yat.svg"     alt="jekyll-theme-yat" />
+</a> 
+
+<a href="https://github.com/vanhiupun" target="_blank">
+    <img src="https://img.shields.io/badge/Github%20Repository-222222?style=flat-square&logo=github&logoColor=ffffff"
+     alt="Github" />
+</a> 
+      
+<a href="https://vanhiupun.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Github%20Page-222222?style=flat-square&logo=github&logoColor=ffffff" 
+     alt="Blog" />
+</a> 
+      
+<a href="mailto:fanxiaobin422@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff" 
+     alt="Gmail" />
+</a> 
+      
+<a href="https://github.com/vanhiupun/Vanhiupun.github.io/blob/c0c037532393ee2718892f87b200a0bbe33e7eb9/License" target="_blank">
+    <img src="https://img.shields.io/badge/License%20MIT-f2cb05?style=flat-square&logo=Mitsubishi&logoColor=222222" 
+     alt="MIT" />
+</a>
+      
+<a href="http://jekyllthemes.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jekyll%20Themes-f2cb05?style=flat-square&logo=Jekyll&logoColor=222222" 
+     alt="jekyll-themes" />
+</a> 
+
+<a href="https://github.com/jeffreytse/jekyll-theme-yat" target="_blank">
+    <img src="https://img.shields.io/badge/Jekyll%C2%B7Theme%C2%B7Yat-f2cb05?style=flat-square&logo=github&logoColor=181717" 
+     alt="Jekyll-yat" />
+</a> 
+  
+<a href="https://raw.githubusercontent.com/vanhiupun/Vanhiupun.github.io/master/assets/images/img/zz.png" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4335?style=flat-square&logo=GitHub%20Sponsors&logoColor=222222" 
+     alt="/GitHub%20Sponsors" />
+</a> 
 </div>
 
-<h4 align="center">
-  <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> theme for elegant writers.
-</h4>
-
-<p align="center">
-  <a href="https://jeffreytse.github.io/jekyll-theme-yat">
-    <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
-      alt="Github Pages" />
-  </a>
-
-  <a href="https://badge.fury.io/rb/jekyll-theme-yat">
-    <img src="https://badge.fury.io/rb/jekyll-theme-yat.svg"
-      alt="Gem Version" />
-  </a>
-
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"
-      alt="License: MIT" />
-  </a>
-
-  <a href="https://liberapay.com/jeffreytse">
-    <img src="https://img.shields.io/liberapay/goal/jeffreytse.svg?logo=liberapay"
-      alt="Donate (Liberapay)" />
-  </a>
-
-  <a href="https://patreon.com/jeffreytse">
-    <img src="https://img.shields.io/badge/support-patreon-F96854.svg?style=flat-square"
-      alt="Donate (Patreon)" />
-  </a>
-
-  <a href="https://ko-fi.com/jeffreytse">
-  <img height="20" src="https://www.ko-fi.com/img/githubbutton_sm.svg"
-  alt="Donate (Ko-fi)" />
-  </a>
-</p>
-
 <div align="center">
-  <sub>Built with ❤︎ by
-  <a href="https://jeffreytse.net">jeffreytse</a> and
-  <a href="https://github.com/jeffreytse/jekyll-theme-yat/graphs/contributors">contributors </a>
+  <sub><a href="https://vanhiupun.github.io/jekyll/2021/11/20/制作和我一样的Jekyll博客.html" target="_blank"> Build a Jekyll blog </a>❤︎
+  </sub>｜
+  <sub><a href="https://vanhiupun.github.io/" target="_blank">Demo site</a>
+  </sub>｜<sub><a href="/readme_CN.md" target="_blank">中文文档</a>
   </sub>
 </div>
 
-<br>
+----
 
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
-_YAT (Yet Another Theme)_ is a modern responsive theme. It's quite
-clear, clean and neat for writers and posts. **If you are an elegant
-writer and focus on content, don't miss it.**
+<div align="center">
+<p><img src="./assets/images/readme/1.gif"  alt="gif"></p>
+</div>
 
-<p align="center">
-Like this elegant theme? You can give it a star or sponsor me!<br>
-I will respect your crucial support and say THANK YOU!
-</p>
+<div align="center">
+<p><img src="./assets/images/readme/1.png"  alt="gif"></p>
+</div>
 
-<p align="center">
+<div align="center">
+<p><img src="./assets/images/readme/3.png"  alt="gif"></p>
+</div>
 
-  <img src="https://user-images.githubusercontent.com/9413601/91842897-6a840b00-ec87-11ea-95ca-52abcc1ac063.png" alt="demo-screenshot" width="100%"/>
+<div align="center">
+<p><img src="./assets/images/readme/2.png"  alt="gif"></p>
+</div>
 
-</p>
+----
 
-<h4 align="center">BANNER</h4>
+#### Install
 
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/9413601/123897812-ae729a00-d996-11eb-96b8-b76ba926f555.gif" alt="demo-screenshot" width="100%"/>
-
-</p>
-
-## Features
-
-- Support beautiful **Night Mode**.
-- Modern responsive web design.
-- Full layouts `home`, `post`, `tags`, `archive` and `about`.
-- Uses font awesome 5 for icons.
-- Beautiful page banner with image and video.
-- Beautiful Syntax Highlight using [highlight.js][highlight-js].
-- RSS support using [Jekyll Feed][jekyll-feed] gem.
-- Optimized for search engines using [Jekyll Seo Tag][jekyll-seo-tag] gem.
-- Sitemap support using [Jekyll Sitemap][jekyll-sitemap] gem.
-- Complex and flexible table support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- MathJAX and LaTeX optional support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Media (Youtube, Spotify, etc.) support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Diagram (PlantUML, Mermaid) support using [Jekyll Spaceship][jekyll-spaceship] gem.
-- Google Translation support.
-- New post tag support.
-
-Also, visit the [Live Demo][yat-live-demo] site for the theme.
-
-## Installation
-
-There are three ways to install:
-
-- As a [gem-based theme](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes).
-- As a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) (GitHub Pages compatible).
-- Forking/directly copying all of the theme files into your project.
-
-### Gem-based Theme Method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "jekyll-theme-yat"
+```zsh
+git clone git@github.com:vanhiupun/Vanhiupun.github.io.git
 ```
+#### Setting up the environment
+1. You will need [Ruby](https://www.ruby-lang.org/zh_cn/) and [Bundler](https://bundler.io/) to use [Jekyll](https://www.jekyll.com.cn). Follow the use of [Jekyll and Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to meet environmental requirements.
+​
+2. To set up your environment to develop this theme, please run `bundle install` .
+​
+3. To test your theme, please run `bundle exec jekyll serve` and open your browser [ http://localhost:4000](http://localhost:4000)
+   
+This will start the Jekyll server with your theme.
 
-And add this line to your Jekyll site's `_config.yml`:
+Test your subject content by adding pages, documents, data, etc. as usual. When you make changes to the theme and content, your site will be regenerated, and you should see the changes in your browser after refreshing
+
+When your theme is released, only the files `_data` , `_layouts` , `_includes` , `_sass` and `assets` using Git tracking will be bundled together.
+
+To add a custom catalog to your theme gems, edit the regular expression `jekyll-theme-yat.gemspec` accordingly .
+
+#### Start
+
+You can modify the `_config.yml` file in general to easily start building your own blog:
 
 ```yaml
-theme: jekyll-theme-yat
+title: Vanhiupun blog # Your blog site title
+
+email: fanxiaobin422@gamil.com # Your email
+
+author: Vanhiupun # Your name
+
+baseurl: "" # The sub-path of the website, eg /blog
+
+url: "" # The base host name and protocol of the site, eg http://example.com
+
+favicon: "/favicon.png" # Use absolute path for website icon eg /favicon.png, not recommended./favicon.png
+
+# Paging settings
+paginate: 5 #Display 5 articles on the homepage
+
+# Extract size setting
+excerpt_size: 250 #The word count of the homepage article is displayed as 250 words
+
 ```
 
-And then execute:
+#### Write a blog post
 
-```bash
-$ bundle
-```
-
-Or install it yourself as:
-
-```bash
-$ gem install jekyll-theme-yat
-```
-
-### Remote Theme Method with GitHub Pages
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install:
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "github-pages", group: :jekyll_plugins
-```
-
-And add this line to your Jekyll site's `_config.yml`:
+Posts to be published are generally placed here in Markdown format `_posts/` , you only need to look at the posts in this template and you will immediately understand how to set them.
 
 ```yaml
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
+---
+layout: post #Layout
+title: Scientific Internet Guide (2): Line Differences and Choices #Title
+categories: Science on the Internet#Categories
+banner:
+  image: https://vanhiupun.github.io/assets/images/banners/jichang.jpeg #The image address can also be used./assets/images/banners/jichang.jpeg
+  opacity: 0.618 #opacity
+  background: "#000" #Background color
+  height: "50vh" #height
+  min_height: "50vh" #Width
+  heading_style: "font-size: 4.25em; font-weight: bold; "#heading style
+  subheading_style: "color: gold" #Subheading style
+tags: [Airport Guide] #tag
+---
 ```
 
-And then execute:
+#### Header Image
 
-```bash
-$ bundle
+You can choose the base map of the title of each page of the blog. Just look at a few sample posts and you will know how to set it.
+
+The choice of the title base map is entirely based on personal aesthetics. Each article can have a different base map, you can put whatever you want, the final width should be enough, the size should not be too big, otherwise the loading will be slow.
+
+> The uploaded pictures are best compressed first. ImageOptim image compression software is recommended here to make your blog take off.
+
+But it should be noted that the title of this template is **white** , so the background color should be set to **gray** or **black** . In short, the dark color is right. Of course, you can also customize and modify the font color. In short, using github pages is to completely customize your own blog.
+
+#### Customization
+
+If you like toss, you can customize the code of this template.
+
+**If you can understand `_include /` and `_layouts /` Code folder (this is where the entire interface layout), you can use `Jekyll` use template engine ` Liquid` syntax directly modify / add Code, let's make a more creative custom interface!**
+​
+
+#### Disqus comments
+
+It’s more popular internationally, and the interface is very elegant and concise. If someone comments, you can notify you in real time. Just reply to the notification email.
+You need to register for a [Disqus account](https://disqus.com/) . Just replace my account with yours
+
+```yaml
+# Disqus comments
+disqus:
+  shortname: "vanhiupun" #Register an account in disqus and change this to your own account
 ```
 
-### GitHub Pages without limitation
+#### Analytics
 
-GitHub Pages runs in `safe` mode and only allows [a set of whitelisted plugins/themes](https://pages.github.com/versions/). **In other words, the third-party gems will not work normally**.
+Website analysis, now supports [Google Analytics](https://analytics.google.com/analytics/web/) . You need to go to the official website to register, and then paste the returned code below:
 
-To use the third-party gem in GitHub Pages without limitation:
+```yaml
+# Google Analytics
+google_analytics: "UA-212989441-1" # If you register one with your Google account, you will be given an id like this, just replace this
+```
 
-Here is a GitHub Action named [jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) for Jekyll site deployment conveniently. 👍
+## contribute
+If you are interested in this project, you can contribute in any of the following areas:
 
-## Usage
+- Star this project
+- You can [open an issue](https://github.com/vanhiupun/Vanhiupun.github.io/issues/new), if you want to solve the problem, we will start from there.
+- Use tests, report errors, or send requests or requests.
+- If your English is very good, please help me write the document.
 
-Add or update your available layouts, includes, sass and/or assets.
+## Thanks
 
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_data`, `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-yat.gemspec` accordingly.
-
-## Contributing
-
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
-
-You can start by [opening an issue](https://github.com/jeffreytse/jekyll-theme-yat/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+This template is Fork from [jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat) , thanks to the author :+1:
 
 ## License
 
-This theme is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © JeffreyTse.
+Follow the MIT license. For details, please refer to [LICENSE](./License) .
 
-<!-- External links -->
+## related resources
 
-[jekyll]: https://jekyllrb.com/
-[yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
-[yat-live-demo]: https://jeffreytse.github.io/jekyll-theme-yat/
-[jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
-[jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
-[jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
-[jekyll-feed]: https://github.com/jekyll/jekyll-feed
-[highlight-js]: https://github.com/highlightjs/highlight.js
+[Demo Site](https://vanhiupun.github.io)
+
+[Build Jekyll Blog](https://vanhiupun.github.io/jekyll/2021/11/20/制作和我一样的Jekyll博客.html)
+
+[Jekyll detailed construction process](https://vanhiupun.github.io/jekyll/2021/11/16/一步一步创建Jekyll主题.html)

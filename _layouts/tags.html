@@ -1,6 +1,6 @@
 ---
 layout: framework
-sidebar: tag-list
+sidebar: []
 ---
 
 {%- if site.posts.size > 0 -%}
@@ -14,3 +14,10 @@ sidebar: tag-list
   {%- include views/segments.html -%}
 
 {%- endif -%}
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#ff5100',
+  textColor: '#fff'
+})</script>

@@ -81,13 +81,16 @@ html {
       max-width: unset;
     }
   }
-
+  
   a {
     text-decoration: none;
   }
 
   .site-header-inner {
     position: relative;
+  }
+  .github-icon {
+    position: relative
   }
 }
 

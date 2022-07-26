@@ -3,8 +3,8 @@ layout: framework
 banner:
 banner_html: post-header.html
 hidden: []
-sidebar:
-  - article-menu
+sidebar: 
+rouge: true
 ---
 
 <div class="post">
@@ -68,14 +68,19 @@ sidebar:
       {%- if site.gitment.username -%}
       {%- include extensions/comments/gitment.html -%}
       {%- endif -%}
-
-      {%- if site.utterances.repo -%}
-      {%- include extensions/comments/utterances.html -%}
-      {%- endif -%}
-
+      
       {%- endif -%}
     </div>
     {%- endif -%}
 
   </section>
+  
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#ff5100',
+  textColor: '#fff'
+})</script>
+  
+  
 </div>

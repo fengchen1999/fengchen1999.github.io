@@ -1,0 +1,17 @@
+current directory: D:/myBlog/fengchen1999.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+D:/Ruby31-x64/bin/ruby.exe -I D:/Ruby31-x64/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: D:/myBlog/fengchen1999.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20220726-19544-zfkk39 sitelibdir\=./.gem.20220726-19544-zfkk39 clean
+
+current directory: D:/myBlog/fengchen1999.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20220726-19544-zfkk39 sitelibdir\=./.gem.20220726-19544-zfkk39
+generating fastfilereaderext-x64-mingw-ucrt.def
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: D:/myBlog/fengchen1999.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20220726-19544-zfkk39 sitelibdir\=./.gem.20220726-19544-zfkk39 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20220726-19544-zfkk39

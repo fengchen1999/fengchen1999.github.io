@@ -1,15 +1,9 @@
 ---
 layout: post
-title: "入门里列生成"
+title: "初探：列生成"
 categories: tech
-tags: [github]
+tags: [integer programming]
 ---
-
-
-
-11111
-
-
 
 
 

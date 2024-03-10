@@ -13,6 +13,10 @@ tags: [integer programming]
 
 对于一个最简单的线性规划问题：
 $$
+zzzzzz
+$$
+
+$$
 \begin{equation}
 	\begin{aligned}
 		z_{MP}^*:= \min \sum_{j \in J} c_j\lambda_j \\

@@ -13,7 +13,17 @@ tags: [integer programming]
 
 对于一个最简单的线性规划问题：
 $$
-zzzzzz
+zzzzz
+$$
+
+$$
+gongshikuai
+$$
+
+$$
+\begin{equation}
+equation
+\end{equation}
 $$
 
 $$

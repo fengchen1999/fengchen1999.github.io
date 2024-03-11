@@ -13,17 +13,13 @@ tags: [integer programming]
 
 对于一个最简单的线性规划问题：
 $$
-111
-$$
-
-$$
-222
-$$
-
-$$
 \begin{equation}
-333
+222
 \end{equation}
+$$
+
+$$
+333
 $$
 
 $$

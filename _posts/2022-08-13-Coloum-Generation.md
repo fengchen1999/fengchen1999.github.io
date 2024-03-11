@@ -13,16 +13,16 @@ tags: [integer programming]
 
 对于一个最简单的线性规划问题：
 $$
-zzzzz
+111
 $$
 
 $$
-gongshikuai
+222
 $$
 
 $$
 \begin{equation}
-equation
+333
 \end{equation}
 $$
 

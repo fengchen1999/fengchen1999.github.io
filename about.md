@@ -34,9 +34,9 @@ Email: 962020138@qq.com
 
 [Robust introduction](https://drive.google.com/file/d/1uiFb2wZwL6lsC_WhWhIocgfKQUOp_eOm/view?usp=sharing)
 
-**Warehouse robust schedule**
+**Warehouse robot schedule**
 
-[Warehouse robust schedule](https://drive.google.com/file/d/1yCAUMEHfRIAsYR7SpNgVvEzLyfOOoDnN/view?usp=sharing)
+[Warehouse robot schedule](https://drive.google.com/file/d/1yCAUMEHfRIAsYR7SpNgVvEzLyfOOoDnN/view?usp=sharing)
 
 <b align = center>如果你对这个项目感兴趣，你可以在以下任何一个方面做出贡献：</b>
 

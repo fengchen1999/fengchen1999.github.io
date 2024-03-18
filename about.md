@@ -38,6 +38,12 @@ Email: 962020138@qq.com
 
 [Warehouse robot schedule](https://drive.google.com/file/d/1yCAUMEHfRIAsYR7SpNgVvEzLyfOOoDnN/view?usp=sharing)
 
+**Location Problem**
+
+[Introduction of classical location problems](https://drive.google.com/file/d/1eAHcYD0BPAKfU1FuWxpB3wJHjOsko9Yo/view?usp=drive_link)
+
+
+
 <b align = center>如果你对这个项目感兴趣，你可以在以下任何一个方面做出贡献：</b>
 
 - [**为这个项目加星**🌟](https://github.com/vanhiupun/Vanhiupun.github.io) 

@@ -8,7 +8,7 @@ title: 我的
 
 ![](https://ghchart.rshah.org/vanhiupun)
 
-<b align = center>Welcome！Here is my personal website.</b> [Home page]([主页 | 晨风 (fengchen1999.github.io)](https://fengchen1999.github.io/))
+<b align = center>Welcome！Here is my personal website.</b> [Home page](https://fengchen1999.github.io/))
 
 我是一名研究生，主要关注运筹学和机器学习在电动汽车及其充电设施中的应用。
 

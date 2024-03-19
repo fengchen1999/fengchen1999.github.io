@@ -87,7 +87,7 @@ code_badge:
 #  redirect_uri: "" # 如果你使用自定义域名
 
 # Translate languges
-translate_langs: []
+translate_langs: [en, zh-CN, ja]
 
 #如果你想改变网站语言，你可以设置 lang 选项
 #lang: "en" # 默认语言为 en

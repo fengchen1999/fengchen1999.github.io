@@ -55,7 +55,7 @@ header_pages:
 
 # Google Analytics
 google_analytics: "UA-212989441-1"    # 你用Google账号去注册一个就会给你一个这样的id
-enableDNT: true
+enableDNT: "false"
 
 #如果要改变内容宽度，可以设置为其他值
 content_width: "1080px"
@@ -80,6 +80,7 @@ code_badge:
 
 # Gitment 评论
 #gitment:
+
 #  username: "" # github用户名
 #  repo: "" # 仓库名称
 #  client_id: "" # Client ID

@@ -64,7 +64,7 @@ $$
 
 This is very interesting, maybe helpful for other application.
 
-If $TU \geq T^{RU}+T^{RD}+2$, where $T^{RU}=\left \lfloor \frac{\overline{P}-SU}{RU} \right \rfloor$ and $T^{RU}=\left \lfloor \frac{\overline{P}-SD}{RD} \right \rfloor$, then we have
+If $TU \geq T^{RU}+T^{RD}+2$, where $T^{RU}=\left \lfloor \frac{\overline{P}-SU}{RU} \right \rfloor$ and $T^{DU}=\left \lfloor \frac{\overline{P}-SD}{RD} \right \rfloor$, then we have
 $$
 \begin{align}
 p(t) \leq \overline{P} u(t) - \sum_{i=0}^{T^{RU}}\left(\overline{P}-(SU+iRU)\right)v(t-i) - \sum_{i=0}^{T^{RD}}\left( \overline{P} - (SD+iRD) \right) w_(t+1+i),

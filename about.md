@@ -36,9 +36,9 @@ Email: 962020138@qq.com
 
 [Robust introduction](https://drive.google.com/file/d/1uiFb2wZwL6lsC_WhWhIocgfKQUOp_eOm/view?usp=sharing)
 
-**Warehouse robot schedule**
+**<!--Warehouse robot schedule**-->
 
-[Warehouse robot schedule](https://drive.google.com/file/d/1yCAUMEHfRIAsYR7SpNgVvEzLyfOOoDnN/view?usp=sharing)
+<!--[Warehouse robot schedule](https://drive.google.com/file/d/1yCAUMEHfRIAsYR7SpNgVvEzLyfOOoDnN/view?usp=sharing)-->
 
 **Location Problem**
 

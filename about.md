@@ -10,9 +10,9 @@ title: 我的
 
 <b align = center>Welcome！Here is my personal website.</b> [Home page](https://fengchen1999.github.io/))
 
-我是一名研究生，主要关注运筹学和机器学习在电动汽车及其充电设施中的应用。
+I'm a graduate student at South China University of Technology. My research interests including electric vehicles, power systems, and operation research.
 
-[CV](https://drive.google.com/file/d/1uKmL3ykh3AktG_cn402tGZT2KK0bTh2h/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1LyAZGwi0Pq_AkcNDPKlvBkfdo-ijvqDC/view?usp=sharing)
 
 Email: 962020138@qq.com
 

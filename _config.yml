@@ -1,8 +1,8 @@
-email: 962020138@qq.com
+email: fengchen_@outlook.com
 author: Feng
-title: 晨风
+title: Feng Chen
 description: >- #这意味着在“baseurl:”之前忽略换行符
-  技术分享｜生活｜
+  Tech share｜Life｜
 baseurl: "" # 您网站的子路径，例如 /blog
 url: "https://fengchen.github.io/" # 您站点的基本主机名和协议，例如 e.g. http://example.com
 favicon: "/favicon.png" # 您网站的图标

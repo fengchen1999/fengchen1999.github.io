@@ -1,6 +1,6 @@
 ---
 layout: Me
-title: 我的
+title: About me
 ---
 
 
@@ -14,7 +14,7 @@ I'm a graduate student at South China University of Technology. My research inte
 
 [CV](https://drive.google.com/file/d/1LyAZGwi0Pq_AkcNDPKlvBkfdo-ijvqDC/view?usp=sharing)
 
-Email: 962020138@qq.com
+Email: fengchen_@outlook.com
 
 
 
@@ -44,11 +44,4 @@ Email: 962020138@qq.com
 
 [Introduction of classical location problems](https://drive.google.com/file/d/1sMwhiX6CYYeE5rNy7ldMRg1jHO4juvKy/view?usp=sharing)
 
-
-
-<b align = center>如果你对这个项目感兴趣，你可以在以下任何一个方面做出贡献：</b>
-
-- [**为这个项目加星**🌟](https://github.com/vanhiupun/Vanhiupun.github.io) 
-- 您可以[**打开 Issues** ](https://github.com/vanhiupun/Vanhiupun.github.io/issues/new)，描述您要解决的问题，我们将从那里开始。
-- 使用或测试，报告错误或发送补丁请求。
-- 如果您的英语很好，请帮助我编写文档。
+- 

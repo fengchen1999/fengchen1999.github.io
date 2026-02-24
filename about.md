@@ -10,9 +10,11 @@ title: About me
 
 <b align = center>Welcome！Here is my personal website.</b> [Home page](https://fengchen1999.github.io/))
 
-I'm a PhD student at Colorado State University (CSU). I'm working with Grid Modernization Institute supervised by Dr. Zhongjie Wang.  My research interests include optimization, machine learning, and their applications in power systems, electric vehicles, and wholesale market.
+I'm a PhD student at Colorado State University (CSU). I'm working with Grid Modernization Institute supervised by Dr. Zhongjie Wang.  My research interests include optimization, machine learning, and their applications in power systems, electric vehicles, and electricity market.
 
 [CV](https://drive.google.com/file/d/1imMovq-6I1gD6rmsPWlTRE9RB4SaKUDd/view?usp=sharing)
+
+[Google Scholar]([‪Feng Chen‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=T9eHTtkAAAAJ&hl=en))
 
 Email: fengchen_@outlook.com
 

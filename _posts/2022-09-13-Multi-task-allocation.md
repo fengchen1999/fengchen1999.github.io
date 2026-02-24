@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人机多任务分配与路径规划"
+title: "UVA multi-tasks assignment and path planning"
 categories: tech
 tags: [UAV]
 ---

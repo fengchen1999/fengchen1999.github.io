@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benders分解:Gurobi实践"
+title: "Benders decomposition:Gurobi practice"
 categories: tech
 tags: [integer programming]
 ---

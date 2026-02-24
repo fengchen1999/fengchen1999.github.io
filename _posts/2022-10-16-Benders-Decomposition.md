@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初探：Benders分解"
+title: "Benders decomposition"
 categories: tech
 tags: [integer programming]
 ---

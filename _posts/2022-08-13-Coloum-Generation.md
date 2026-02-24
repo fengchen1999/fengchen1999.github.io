@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初探：列生成"
+title: "Column generation"
 categories: tech
 tags: [integer programming]
 ---
